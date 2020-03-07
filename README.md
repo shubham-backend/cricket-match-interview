@@ -8,6 +8,9 @@ php artisan migrate and after that
 open query.sql and copy data and paste on interview database onclick within sql tab.
 or <b>directly import database interview.sql</b>
 
+<b>Thanks</b>
+<i>Shubham Gupta</b>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
