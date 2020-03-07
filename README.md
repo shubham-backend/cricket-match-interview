@@ -6,7 +6,9 @@ create a database <b>interview</b>
 and create table using migration and type
 php artisan migrate and after that 
 open query.sql and copy data and paste on interview database onclick within sql tab.
-or <b>directly import database interview.sql</b>
+or <b>directly import database interview.sql</b> <br>
+
+Larvel Feature Used - Migration, Relationship,Helpers,Atisian commond for MVC,Routing Name, FirstWhere,With,Eagr and lazy loading, Laravel View customize (Yield('content'), yield('css'),Yield('title'),yield('script'),@include('layout.common')),etc.
 
 <b>Thanks -</b>
 <i>Shubham Gupta</b>
