@@ -1,4 +1,4 @@
-After download the project run 2 command in your root project in console -
+<b>Hints -</b> After download the project run 2 command in your root project on console -
 <b>composer update </b> and
 <b>sudo chmod -R 777 bootstrap/ storage/ </b>
 After that
